@@ -1,7 +1,7 @@
 version: '3'
 services:
   es-distro:
-    image: amazon/opendistro-for-elasticsearch:1.13.1
+    image: amazon/opendistro-for-elasticsearch:1.13.3
     environment:
       - discovery.type=single-node
       - bootstrap.memory_lock=true # along with the memlock settings below, disables swapping
