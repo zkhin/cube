@@ -209,10 +209,10 @@
     ramda "^0.27.1"
     source-map-support "^0.5.19"
 
-"@cubejs-templates/core@^0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@cubejs-templates/core/-/core-0.0.7.tgz#4028c6d4d652a6e540da93b38b46d78b23082bbb"
-  integrity sha512-a83qBU5Ff/VaDidQUCiM+WlReAL8yJWi1nTrIdS4//lsqxcDyNK1jYqGr7qKJMHCDEJz/UUWfzbO7nXq718J4Q==
+"@cubejs-templates/core@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@cubejs-templates/core/-/core-0.0.8.tgz#14da73cdaa5692ab75d6c77f0aec0cf9e2f48d52"
+  integrity sha512-6ZqEwRCIZXbXWfRjNR+A01hH9eoP9ghuSJIvki8P+kJvx/MymFGE6hxChKcMNT5OvXH5o/3fnJg8G2uP5tNXtw==
   dependencies:
     "@babel/generator" "^7.12.15"
     "@babel/parser" "^7.12.16"
